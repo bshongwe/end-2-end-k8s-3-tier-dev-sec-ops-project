@@ -1,9 +1,9 @@
 # 🚀 Enterprise-Grade Three-Tier Web Application on AWS EKS
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/ernest-shongwe/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/jdzF8kTtw2)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amanpathakdevops)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shongwe.bhekizwe)
+[![GitHub](https://img.shields.io/github/stars/bshongwe.svg?style=social)](https://github.com/bshongwe)
 [![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
@@ -505,8 +505,8 @@ graph TB
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AmanPathak-DevOps/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project.git
-cd End-to-End-Kubernetes-Three-Tier-DevSecOps-Project
+git clone https://github.com/bshongwe/end-2-end-k8s-3-tier-dev-sec-ops-project.git
+cd end-2-end-k8s-3-tier-dev-sec-ops-project
 ```
 
 ### 2. Local Development Setup
