@@ -1,3 +1,5 @@
+![Visits Badge](https://hits.sh/github.com/bshongwe/end-2-end-k8s-3-tier-dev-sec-ops-project.svg?style=flat-square&label=Visits&color=blue)
+
 # 🚀 Enterprise-Grade Three-Tier Web Application on AWS EKS
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/ernest-shongwe/)
